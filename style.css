@@ -21,3 +21,38 @@
     cursor: pointer;
 
 }
+.cat-1, .cat-2, .cat-3{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat-1{
+    background-color: orange;
+}
+  
+.cat-2{
+    background-color: orchid;
+
+}
+.cat-3{
+    background-color: burlywood;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+  background-color: white;
+  border-top: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+  
+}
